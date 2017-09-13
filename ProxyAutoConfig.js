@@ -4,6 +4,7 @@ var DIRECT = 'DIRECT;';
 var DENINE = 'PROXY localhost:0;';
 
 var WHITE_LIST = [
+  'hdviet.com'        ,
   'hdonline.vn'       ,
   'youtube.com'       ,
   'youtu.be'          ,
