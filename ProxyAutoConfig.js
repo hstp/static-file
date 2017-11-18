@@ -11,7 +11,8 @@ var WHITE_LIST = [
   'hayhaytv.vn'       ,
   'fptplay.net'       ,
   '.googlevideo.com'  ,
-  '.ytimg.com'
+  '.ytimg.com'        ,
+  '.google.com'
 ];
 
 var IsURLAlowed = function(host, white_list) {
